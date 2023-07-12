@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BoljiStudij</string>
+    <string name="app_name_uppercase">Bolji STUDIJ</string>
+    <string name="better">Bolji</string>
+    <string name="study">STUDIJ</string>
+    <string name="logn_in">Prijavi se</string>
+    <string name="email">E-mail:</string>
+    <string name="password">Lozinka:</string>
+    <string name="wrong_email">Unesen je krivi email ili lozinka.</string>
+    <string name="no_network_connection">Nema internetske veze</string>
+    <string name="events">Događaji</string>
+    <string name="news">Novosti</string>
+    <string name="all_news"><u>vidi sve</u></string>
+    <string name="published">Objavio:</string>
+    <string name="schedule">Raspored</string>
+    <string name="home">Početna</string>
+    <string name="search">Pretraži</string>
+    <string name="location">Lokacije</string>
+    <string name="profil">Profil</string>
+    <string name="homework">Zadaće</string>
+    <string name="title_homework">Završetak 24.6.2023. u 23:59</string>
+</resources>
